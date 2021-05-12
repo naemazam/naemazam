@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/naemazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="naemazam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naemazam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="naemazam" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gfg(<naemazam>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(<naemazam>/profile)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
