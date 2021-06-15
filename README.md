@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Analyze International Debt Statistics](https://learn.datacamp.com/projects/754)
+- 🔭 I’m currently working on [Visualizing-COVID-19](https://github.com/naemazam/Visualizing-COVID-19)
 
-- 👨‍💻 All of my projects are available at [naemazam.github.io](naemazam.github.io)
+- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/projects.html)
 
 - 💬 Ask me about **Linux, CMD, PowerShell**
 
-- 📄 Know about my experiences [naemazam.github.io](naemazam.github.io)
+- 📄 Know about my experiences [Experiences](naemazam.github.io)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
 
