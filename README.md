@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [Visualizing-COVID-19](https://github.com/naemazam/Visualizing-COVID-19)
 
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/#portfolio)
 
 - 💬 Ask me about **Linux, CMD, PowerShell**
 
-- 📄 Know about my experiences [Experiences](naemazam.github.io)
+- 📄 Know about my experiences [Experiences](https://naemazam.github.io/#resume)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
 
