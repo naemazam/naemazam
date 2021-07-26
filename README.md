@@ -9,6 +9,10 @@
 <a href="#">
   <img align="left" alt=Azam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="#">
+  <img align="left" alt="Naem Azam | Twitter" width="22px" src="https://github.com/naemazam/naemazam/blob/main/dev.PNG" />
+</a>
+                             
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=naemazam&label=Profile%20views&color=0e75b6&style=flat" alt="naemazam" /> </p>                           
 <br />
 
