@@ -15,8 +15,8 @@
  <a href="#">
   <img align="left" alt="Naem Azam | Twitter" width="22px" src="https://github.com/naemazam/naemazam/blob/main/stac.PNG" />
 </a>
- <a href="#">
-  <img align="left" alt="Naem Azam | Twitter" width="22px" src="https://github.com/naemazam/naemazam/blob/main/cv.png" />
+ <a href="https://naemazam.github.io/">
+  <img align="left" alt="Naem Azam | cv" width="22px" src="https://github.com/naemazam/naemazam/blob/main/cv.png" />
 </a>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=naemazam&label=Profile%20views&color=0e75b6&style=flat" alt="naemazam" /> </p>                           
 <br />
