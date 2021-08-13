@@ -21,7 +21,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=naemazam&label=Profile%20views&color=0e75b6&style=flat" alt="naemazam" /> </p>                           
 <br />
 
-hi, i'm [Naem Azam](https://naemazam.github.io), a passionate self-taught Python Progammer and a cybersecurity Expert. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Naem Azam](https://naemazam.github.io), a passionate self-taught Python Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
