@@ -47,10 +47,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
   <table> 
     <tr>
-    <td> Project name </td>
-     <td> Abstract </td>
-     <td> GitHub Links </td>
-     <td> Documentation Webpage </td>
+    <th> Project name </th>
+     <th> Abstract </th>
+     <th> GitHub Links </th>
+     <th> Documentation Webpage </th>
     </tr>
     <tr>
     <td> Port-Finder </td>
@@ -71,12 +71,59 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <td>  <a href="https://naemazam.github.io/Student-Information-System/" target="blank"> WebView </a> </td>
     </tr>
     <tr>
-    <td> Project name </td>
-     <td> Abstract </td>
-     <td> GitHub Links </td>
-     <td> Documentation Webpage </td>
+    <td> The-Evolution-of-Linux </td>
+     <td> In this project, you'll be challenged to read in, clean up and visualize a real world Git repository dataset of the Linux kernel. </td>
+    <td>  <a href="https://github.com/naemazam/The-Evolution-of-Linux#readme" target="blank"> ReadMe </a> </td>
+     <td> - </td>
     </tr>
-    
+    <tr>
+    <td> Subnet calculator </td>
+     <td> A Subnet calculator based On Java </td>
+    <td>  <a href="https://github.com/naemazam/SubNet-Calculator#readme" target="blank"> ReadMe </a> </td>
+      <td>  - </td>
+    </tr>
+    <tr>
+    <td> Predicting-Credit-Card-Approvals </td>
+     <td> I will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. </td>
+    <td>  <a href="https://github.com/naemazam/Predicting-Credit-Card-Approvals#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+    <tr>
+    <td> Generating-Keywords-for-Google-Ads </td>
+     <td> Automatically generate keywords for a search engine marketing campaign using Python. </td>
+    <td>  <a href="https://github.com/naemazam/Generating-Keywords-for-Google-Ads#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+    <tr>
+    <td> Gender-Prediction-using-Sound </td>
+     <td>  I will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books.</td>
+    <td>  <a href="https://github.com/naemazam/Gender-Prediction-using-Sound#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+     <tr>
+    <td> Exploring-the-Bitcoin-Cryptocurrency-Market </td>
+     <td> To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies. </td>
+    <td>  <a href="https://github.com/naemazam/Exploring-the-Bitcoin-Cryptocurrency-Market#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+     <tr>
+    <td> A-Network-Analysis-of-Game-of-Thrones </td>
+     <td> You will look at how the importance of the characters changes over the books using different centrality measures.</td>
+    <td>  <a href="https://github.com/naemazam/A-Network-Analysis-of-Game-of-Thrones#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+     <tr>
+    <td> Visualizing-COVID-19 </td>
+     <td> we will visualize data from the early months of the coronavirus outbreak to see how this virus grew to be a global pandemic.</td>
+    <td>  <a href="https://github.com/naemazam/Visualizing-COVID-19#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
+     <tr>
+    <td>The World Bank's international debt data </td>
+     <td> It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy.</td>
+    <td>  <a href="https://github.com/naemazam/Analyze-International-Debt-Statistics#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> WebView </a> </td>
+    </tr>
     
   </table>   
   
