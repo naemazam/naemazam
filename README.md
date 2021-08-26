@@ -50,33 +50,45 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="C#" />
+        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>markdown
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>HTML
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>SQL
     </td>
     </tr>
 </table>
@@ -89,31 +101,43 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <a href="#">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>markdown
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>HTML
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>SQL
     </td>
     </tr>
 </table>
