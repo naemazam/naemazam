@@ -68,7 +68,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/c++.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/c%2B%2B.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
@@ -99,7 +99,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/arduino.png" width="48" height="48" alt="C#" />
+        <img src="./img/ardoino.png" width="48" height="48" alt="C#" />
       </a>
       <br>Arduino
     </td>
@@ -123,9 +123,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/github.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Numpy
+      <br>GitHub-Action
     </td>
      <td align="center" width="96">
       <a href="#">
@@ -135,7 +135,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/flask.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Flask
     </td>
@@ -167,7 +167,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/nmap.png" width="48" height="48" alt="C#" />
       </a>
       <br>nmap
     </td>
@@ -179,7 +179,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/git.png" width="48" height="48" alt="Golang" />
       </a>
       <br>Git
     </td>
@@ -191,9 +191,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/vs.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Jupyter Notebook
     </td>
     </tr>
 </table>
