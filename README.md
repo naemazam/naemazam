@@ -106,7 +106,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/power.pmg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/power.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Powershell
     </td>
@@ -220,6 +220,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <img src="./img/arch.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>ARCH
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/and.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>android
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/crom.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Chrome OS
     </td>
     </tr>
 </table>
