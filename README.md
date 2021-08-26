@@ -187,7 +187,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/nmap.png" width="48" height="48" alt="C#" />
+        <img src="./img/windo.png" width="48" height="48" alt="C#" />
       </a>
       <br>Windows
     </td>
@@ -223,7 +223,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/and.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/ando.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>android
     </td>
