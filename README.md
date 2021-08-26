@@ -50,7 +50,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/bash.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
     </td>
