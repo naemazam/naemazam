@@ -50,7 +50,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/bash.png" width="48" height="48" alt="#" />
       </a>
       <br>Bash
     </td>
@@ -62,31 +62,31 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/c.png" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/c++.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/m.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>markdown
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/html.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>HTML
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
     </td>
@@ -99,45 +99,45 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/arduino.png" width="48" height="48" alt="C#" />
       </a>
-      <br>Bash
+      <br>Arduino
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/flutter.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>C
+      <br>flutter
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/react-original.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>C++
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>markdown
+      <br>Numpy
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/wordpress.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Wordpress
     </td>
      <td align="center" width="96">
       <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>HTML
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>SQL
+      <br>Flask
     </td>
     </tr>
 </table>
@@ -148,33 +148,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/github.png" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>GitHub Page
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <br>my-sql
     </td>
     </tr>
 </table>
@@ -187,28 +169,28 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <a href="#">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>nmap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#">
+        <img src="./img/anaconda.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>Anaconda
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#">
+        <img src="https://jsonnet.org/img/shark.png" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>wairshark
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
