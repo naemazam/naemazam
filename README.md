@@ -12,25 +12,39 @@
  
  <!-- social -->
  <p align="center">
-  <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="http://naemazam.github.io/"><img width="32px" alt="Free Stuff" title="CV" src="cv.png"/></a>
 </p>
-    
-hi, i'm [Naem Azam](https://naemazam.github.io), a passionate self-taught Python Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+<p align="center">
+  <a href="https://www.youtube.com/c/UCTE1zfR8xpBXqgjvOgH0Nfw?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/UCTE1zfR8xpBXqgjvOgH0Nfw">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+  <a href="https://github.com/naemaazam">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+  ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)<br>
+  
+  
+Hi, i'm [Naem Azam](https://naemazam.github.io), a passionate self-taught Python Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
+  
+  
   
 - 🔭 I’m currently working on [Visualizing-COVID-19](https://github.com/naemazam/Visualizing-COVID-19)
 
@@ -89,6 +103,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <img src="./img/mysql-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/power.pmg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Powershell
     </td>
     </tr>
 </table>
@@ -161,8 +181,50 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </tr>
 </table>
 
-> Software and tools
+> operating system
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/nmap.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Ret-Hat
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="/img/pi.png" width="48" height="48" alt="shark" />
+      </a>
+      <br>Raspberry pi
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/kali.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>kali
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/arch.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>ARCH
+    </td>
+    </tr>
+</table>
+
+> Software and tools
 <table>
   <tr>
     <td align="center" width="96">
