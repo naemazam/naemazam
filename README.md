@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
   
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="naemazam">Dev-Hub</h2>
 
 > Progamming languages
 
@@ -68,7 +68,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/c%2B%2B.png" width="48" height="48" alt="Jsonnet" />
+        <img src="/img/c++.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>C++
     </td>
@@ -117,7 +117,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/react-original.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="img/react-original.svg" width="48" height="48" alt="react" />
       </a>
       <br>React
     </td>
@@ -185,7 +185,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://jsonnet.org/img/shark.png" width="48" height="48" alt="Jsonnet" />
+        <img src="/img/shark.png" width="48" height="48" alt="shark" />
       </a>
       <br>wairshark
     </td>
