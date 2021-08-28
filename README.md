@@ -163,7 +163,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <a href="#">
         <img src="./img/qt.png" width="48" height="48" alt="qt" />
       </a>
-      <br>Flask
+      <br>QT
     </td>
     </tr>
 </table>
