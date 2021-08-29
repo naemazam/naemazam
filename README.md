@@ -361,7 +361,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td> Gender-Prediction-using-Sound </td>
      <td>  I will use the Python package Fuzzy to find out the genders of authors that have appeared in the New York Times Best Seller list for Children's Picture books.</td>
     <td>  <a href="https://github.com/naemazam/Gender-Prediction-using-Sound#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="#" target="blank"> WebView </a> </td>
+      <td>  <a href="https://naemazam.github.io/Gender-Prediction-using-Sound/" target="blank"> WebView </a> </td>
     </tr>
      <tr>
     <td> Exploring-the-Bitcoin-Cryptocurrency-Market </td>
