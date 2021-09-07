@@ -55,7 +55,42 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 📄 Know about my experiences [Experiences](https://naemazam.github.io/#resume)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
-  
+
+<h2 align="left" id="naemazam">Certificates</h2>
+
+>Professional Certificates
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/google.png" width="48" height="48" alt="#" />
+      </a>
+      <br>IT Support Proffetional
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/google.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>IT Automation with Python Professional
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
+      </a>
+      <br>CompTIA Network+
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>Linux System Administration
+    </td>
+     </tr>
+</table>
+
+
+
 <h2 align="left" id="naemazam">Dev-Hub</h2>
 
 > Progamming languages
