@@ -328,8 +328,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="left">
  <a href="https://naemazam.github.io/The-Monitor/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=The-Monitor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="http://internet-speed-test.42web.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=
-internet-speed-Test&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="http://internet-speed-test.42web.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=internet-speed-Test&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://naemazam.github.io/The-Monitor/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=The-Monitor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/need-linux"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=need-linux.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/naemazam/3a5y-terminal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=3a5y-terminal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
