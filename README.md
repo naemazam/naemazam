@@ -135,7 +135,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/sql.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>SQL
     </td>
@@ -144,6 +144,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <img src="./img/power.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/php.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
     </td>
     </tr>
 </table>
@@ -315,6 +321,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Jupyter Notebook
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/sublime.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Sublime
     </td>
     </tr>
 </table>
