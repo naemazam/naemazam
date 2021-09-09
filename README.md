@@ -139,6 +139,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       </a>
       <br>SQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/power.png" width="48" height="48" alt="TypeScript" />
