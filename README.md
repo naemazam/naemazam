@@ -355,6 +355,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <h2> My Projects Box </h2>
   
 <br/> 
+<p align="center">
+  <a href="https://naemazam.github.io/small-project-hub/"><img alt="All Small Projects" title="All Small Projects" src="https://custom-icon-badges.herokuapp.com/badge/-small%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
   
 <!-- project table -->
   <table> 
