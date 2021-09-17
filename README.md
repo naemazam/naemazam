@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/UCTE1zfR8xpBXqgjvOgH0Nfw?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/c/UCTE1zfR8xpBXqgjvOgH0Nfw">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
