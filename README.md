@@ -22,7 +22,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://naemazam.github.io/"><img width="32px" alt="Free Stuff" title="CV" src="cv.png"/></a>
+  <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="cv.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
 
 <p align="center">
@@ -32,8 +34,7 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/naemazam">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/naemazam">
-    <img alt="followers" title="Follow me on Github" src="https://www.apkmirror.com/wp-content/uploads/2019/05/5cd0cf042b886.png?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
 </p>
 
   ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)<br>
