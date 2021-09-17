@@ -381,13 +381,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </tr>
     <tr>
     <td> Student-Information-System </td>
-     <td> The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast.</td>
+     <td> A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data</td>
      <td>  <a href="https://github.com/naemazam/Student-Information-System#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Student-Information-System/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
     <td> Weather-website-live</td>
-     <td> A student information system, student management system, school administration software or student administration system is a management information system for education establishments used to manage student data. </td>
+     <td>  The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast. </td>
      <td>  <a href="https://github.com/naemazam/Weather-website-live" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Weather-website-live/" target="blank"> WebView </a> </td>
     </tr>
