@@ -393,6 +393,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <td>  <a href="https://naemazam.github.io/Student-Information-System/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
+    <td> The Calculator </td>
+     <td>Make some Online calculator in js Design with Soft UI </td>
+     <td>  <a href="https://github.com/naemazam/The-Calculator#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/The-Calculator/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
     <td> Weather-website-live</td>
      <td>  The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast. </td>
      <td>  <a href="https://github.com/naemazam/Weather-website-live" target="blank"> ReadMe </a> </td>
