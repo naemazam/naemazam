@@ -309,15 +309,27 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/git.png" width="48" height="48" alt="Golang" />
+        <img src="./img/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/p.png" width="48" height="48" alt="Proteus" />
+      </a>
+      <br>Proteus
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="./img/k.png" width="48" height="48" alt="Keil" />
+      </a>
+      <br>Keil
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="/img/shark.png" width="48" height="48" alt="shark" />
       </a>
-      <br>wairshark
+      <br>wiershark
     </td>
     <td align="center" width="96">
       <a href="#">
