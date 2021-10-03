@@ -319,7 +319,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       </a>
       <br>Proteus
     </td>
-     <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#">
         <img src="./img/k.png" width="48" height="48" alt="Keil" />
       </a>
@@ -337,6 +337,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       </a>
       <br>Visual Studio
     </td>
+     <tr>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/jnote.png" width="48" height="48" alt="TypeScript" />
@@ -415,6 +416,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td>  The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast. </td>
      <td>  <a href="https://github.com/naemazam/Weather-website-live" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Weather-website-live/" target="blank"> WebView </a> </td>
+    </tr>
+   <tr>
+    <td> Online Live Editor </td>
+     <td> A simple gift for my font-end Developer Friends, It's a Html CSS and JavaScript live editor With live demo </td>
+    <td>  <a href="https://github.com/naemazam/Live-Code-Editor/#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Live-Code-Editor/" target="blank"> WebView </a> </td>
     </tr>
     <tr>
     <td> ReadMe Genarator </td>
