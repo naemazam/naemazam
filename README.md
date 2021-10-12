@@ -12,17 +12,17 @@
  
  <!-- social -->
  <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="#" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="cv.png"/></a>
+  <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
@@ -229,7 +229,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <br>GitHub Page
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>my-sql
