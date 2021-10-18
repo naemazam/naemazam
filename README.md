@@ -53,7 +53,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
   
   
-- 🔭 I’m currently working on [Visualizing-COVID-19](https://github.com/naemazam/Visualizing-COVID-19)
+- 🔭 I’m currently working on [Visualizing-COVID-19](https://naemazam.github.io/Visualizing-COVID-19/)
 
 - 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/#portfolio)
 
