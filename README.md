@@ -14,9 +14,9 @@
  <p align="center">
   <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="stac.PNG"/></a>
+  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./img/discord-48.png"/></a>
+  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
