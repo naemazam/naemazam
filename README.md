@@ -502,6 +502,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/text-to-speak#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/text-to-speak/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td>Online Ludo </td>
+     <td>4 Play online ludo game on JS based </td>
+    <td>  <a href="https://github.com/naemazam/Online-Ludo#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Online-Ludo/" target="blank"> WebView </a> </td>
+    </tr>
     
   </table>   
   
