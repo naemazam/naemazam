@@ -423,6 +423,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Live-Code-Editor/#readme" target="blank"> ReadMe </a> </td>
      <td> <a href="https://naemazam.github.io/Live-Code-Editor/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td> Google search clone </td>
+     <td> Fully working fake Google search engine clone using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/Google-search-clone#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Google-search-clone/" target="blank"> WebView </a> </td>
+    </tr>
     <tr>
     <td> ReadMe Genarator </td>
      <td> Genarate Your Readme File Easyly make a Beautiful Design </td>
