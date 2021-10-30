@@ -513,6 +513,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Online-Ludo#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Online-Ludo/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td>Type Beast </td>
+     <td>A simple typing speed test Website based on html and js </td>
+    <td>  <a href="https://github.com/naemazam/TypeBeast#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/TypeBeast/" target="blank"> WebView </a> </td>
+    </tr>
     
   </table>   
   
