@@ -55,7 +55,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 🔭 I’m currently working on [Visualizing-COVID-19](https://naemazam.github.io/Visualizing-COVID-19/)
 
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/#portfolio)
+- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
 
 - 💬 Ask me about **Linux, CMD, PowerShell**
 
@@ -376,7 +376,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 <br/> 
 <p align="center">
-  <a href="https://naemazam.github.io/small-project-hub/"><img alt="All Small Projects" title="All Small Projects" src="https://custom-icon-badges.herokuapp.com/badge/-small%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://naemazam.github.io/My-Projects/"><img alt="All Small Projects" title="All Small Projects" src="https://custom-icon-badges.herokuapp.com/badge/-small%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
   
 <!-- project table -->
