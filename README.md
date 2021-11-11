@@ -424,6 +424,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td> <a href="https://naemazam.github.io/Live-Code-Editor/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
+    <td> Live Browser </td>
+     <td> Fully working webbrowser clone using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/live-browser/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
     <td> Google search clone </td>
      <td> Fully working fake Google search engine clone using html CSS and JS </td>
     <td>  <a href="https://github.com/naemazam/Google-search-clone#readme" target="blank"> ReadMe </a> </td>
@@ -519,8 +525,56 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/TypeBeast#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/TypeBeast/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td>My projects </td>
+     <td>Let's See. In here I am Combining All of my projects and Works. </td>
+    <td>  <a href="https://github.com/naemazam/My-Projects#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/My-Projects/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td>Local-File-Finder </td>
+     <td>You can think of it as Google for your local files.</td>
+    <td>  <a href="https://github.com/naemazam/Local-File-Finder#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Local-File-Finder/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td> About Me </td>
+     <td>It's a Simple Card For Add About me any Of My projects.</td>
+    <td>  <a href="https://github.com/naemazam/About-Me#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/About-Me/" target="blank"> WebView </a> </td>
+    </tr>
+   <tr>
+    <td> Birthday Calender</td>
+     <td>A Simple Birthday calender with evo-event calender</td>
+    <td>  <a href="https://github.com/naemazam/Birthday-Calender#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Birthday-Calender/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td> I know your keybord</td>
+     <td>I-know-your-keybord a web App for track every key value of your keybord </td>
+    <td>  <a href="https://github.com/naemazam/I-know-your-keybordr#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/I-know-your-keybord/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td> Dictionary App</td>
+     <td>Dictionary-App a web App for search words on online via API </td>
+    <td>  <a href="https://github.com/naemazam/Dictionary-App#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Dictionary-App" target="blank"> WebView </a> </td>
+    </tr>
+   <tr>
+    <td> Note-Keeper</td>
+     <td>in Note keeper app you can save, edit and delete your notes. It's have also Search feature and No one can see Your notes. </td>
+    <td>  <a href="https://github.com/naemazam/Note-Keeper#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Note-Keeper/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td> Remember Password</td>
+     <td>R-Pass is a Python GUI based Password Store and Generator System , Save,Easy And Useful.</td>
+    <td>  <a href="https://github.com/naemazam/Remember-Password#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
     
-  </table>   
+  </table> 
   
   
   <h2> Summary Of My Github Status </h2>
