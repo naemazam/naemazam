@@ -426,8 +426,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tr>
     <td> Live Browser </td>
      <td> Fully working webbrowser clone using html CSS and JS </td>
-    <td>  <a href="https://github.com/naemazam/#readme" target="blank"> ReadMe </a> </td>
-     <td> <a href="https://naemazam.github.io/live-browser/" target="blank"> WebView </a> </td>
+    <td>  <a href="https://github.com/naemazam/Live-Browser#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Live-Browser/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
     <td> Google search clone </td>
