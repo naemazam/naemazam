@@ -579,6 +579,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Remember-Password#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
+  <tr>
+    <td> Earthquakes worldwide</td>
+     <td>Earthquakes worldwide is a python based Earthquakes Data colection Code, It will show last 24 Hours World  recored </td>
+    <td>  <a href="https://github.com/naemazam/Earthquakes-worldwide#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
     
   </table> 
   
