@@ -591,6 +591,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Periodic-table#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
+  <tr>
+    <td>Text to Morse</td>
+     <td>Convert Text to Morse Code With Python</td>
+    <td>  <a href="https://github.com/naemazam/Text-to-morse#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
     
   </table> 
   
