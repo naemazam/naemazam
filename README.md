@@ -654,16 +654,32 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <th> Project name </th>
      <th> Abstract </th>
      <th> GitHub Links </th>
-     <th> Documentation Webpage </th>
+     <th> Language </th>
     </tr>
    <tr>
     <td>Text to Morse</td>
      <td>Convert Text to Morse Code With Python</td>
     <td>  <a href="https://github.com/naemazam/Text-to-morse#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="" target="blank"> -</a> </td>
+      <td>  Python </td>
     </tr>
-  
-  
+  <tr>
+    <td>Seven segment printer</td>
+     <td>print Like 7-seg LED display</td>
+    <td>  <a href="https://github.com/naemazam/Seven-segment-printer#readme" target="blank"> ReadMe </a> </td>
+      <td> Python </td>
+    </tr>
+  <tr>
+    <td>Word to Binary Convert</td>
+     <td>Convert Your Loveletter to Binary</td>
+    <td>  <a href="https://github.com/naemazam/Word-to-Binary-Convert#readme" target="blank"> ReadMe </a> </td>
+      <td> C </td>
+    </tr>
+  <tr>
+    <td>Roman to Decimal converter</td>
+     <td>Python based Roman to Decimal converter</td>
+    <td>  <a href="https://github.com/naemazam/Roman-to-Decimal-converter#readme" target="blank"> ReadMe </a> </td>
+      <td> Python </td>
+    </tr>
   
   
   
