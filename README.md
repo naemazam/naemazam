@@ -640,7 +640,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td> Chrome-Dinosaur </td>
      <td>simple chrome offline T-rex Runner game clone using html CSS and JS </td>
     <td>  <a href="https://github.com/naemazam/Chrome-Dinosaur#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/Chrome-Dinosaur/" target="blank"> WebView </a> </td>
+      <td>  <a href="https://naemazam.github.io/Chrome-Dinosaur/" target="blank"> Play </a> </td>
+    </tr>
+  <tr>
+    <td> Online Chess </td>
+     <td>Online Chess game using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/Online-Chess#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Online-Chess/" target="blank"> play </a> </td>
     </tr>
   
   
