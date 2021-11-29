@@ -425,6 +425,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td> <a href="https://naemazam.github.io/Live-Browser/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
+    <td> Font-End Dev Portfolio </td>
+     <td> This portfolio Designer For Font-end Dev. A Simple gift for my Fellows </td>
+    <td>  <a href="https://github.com/naemazam/Front-end-dev-portfolio#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Front-end-dev-portfolio/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
     <td> Google search clone </td>
      <td> Fully working fake Google search engine clone using html CSS and JS </td>
     <td>  <a href="https://github.com/naemazam/Google-search-clone#readme" target="blank"> ReadMe </a> </td>
