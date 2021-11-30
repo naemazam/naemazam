@@ -497,6 +497,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <td>  <a href="https://naemazam.github.io/Note-Keeper/" target="blank"> WebView </a> </td>
     </tr>
   
+  <tr>
+    <td> Login Signup Form with Email Verification </td>
+     <td>Login Signup Form with Email Verification is a Working PHP based Sine Up from with Working OTP generating System, It's Working On Local Host. And I told You How to Configure Server. </td>
+    <td>  <a href="https://github.com/naemazam/Login-Signup-Form-with-Email-Verification#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://dev.to/naemazam/how-to-configure-xampp-to-send-mail-from-localhost-in-php--382c" target="blank"> Read Blog </a> </td>
+    </tr>
   
   
   
