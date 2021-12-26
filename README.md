@@ -738,18 +738,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <table align="center" border="1">
-<tr>
+<tr align="center">
 <td colspan="3"><img align="left" src="https://github-readme-stats.vercel.app/api?username=naemazam&theme=tokyonight&show_icons=true" /></td>
 </tr>
-<tr>
+<tr align="center">
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naemazam&theme=tokyonight&show_icons=true" /></td>
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naemazam&theme=github_dark" /></td>
 <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naemazam&theme=github_dark"/></td>
 </tr>
-<tr>
+<tr align="center">
 <td colspan="3"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naemazam&theme=github_dark"/></td>
 </tr>
-<tr>
+<tr align="center">
 <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naemazam&" alt="naemazam" /></td>
 </tr>
 </table>
