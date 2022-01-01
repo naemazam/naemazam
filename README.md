@@ -650,6 +650,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
   <tr>
+    <tr>
+    <td> Brute Force</td>
+     <td>Understand Brute Force Password attack</td>
+    <td>  <a href="https://github.com/naemazam/Earthquakes-worldwide#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
     <td> Periodic table</td>
      <td>Let's Gather Periodic table Information By python</td>
     <td>  <a href="https://github.com/naemazam/Periodic-table#readme" target="blank"> ReadMe </a> </td>
