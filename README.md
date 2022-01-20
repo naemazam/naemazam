@@ -437,6 +437,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td> <a href="https://naemazam.github.io/Google-search-clone/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
+    <td> Random Quran Ayat </td>
+     <td> This Website will Generate Random Quran Ayat With Arabic and English Meaning. You can also share it on twitter or Facebook. </td>
+    <td>  <a href="https://github.com/naemazam/Random-Quran-Ayat#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Random-Quran-Ayat/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
     <td> ReadMe Genarator </td>
      <td> Genarate Your Readme File Easyly make a Beautiful Design </td>
     <td>  <a href="https://github.com/naemazam/github-profile-readme-genarator#readme" target="blank"> ReadMe </a> </td>
