@@ -509,6 +509,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Login-Signup-Form-with-Email-Verification#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://dev.to/naemazam/how-to-configure-xampp-to-send-mail-from-localhost-in-php--382c" target="blank"> Read Blog </a> </td>
     </tr>
+  <tr>
+    <td> Online Timer and Alarm Clock</td>
+     <td>Simple Html css and Js Based Web-App Where You Can set Alarm And Timer. </td>
+    <td>  <a href="https://github.com/naemazam/Online-Timer-and-Alarm-Clock#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Online-Timer-and-Alarm-Clock/" target="blank"> Read Blog </a> </td>
+    </tr>
   
   
   
@@ -699,7 +705,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <th> Project name </th>
      <th> Abstract </th>
      <th> GitHub Links </th>
-     <th> Documentation Webpage </th>
+     <th> Live Play </th>
     </tr>
    <tr>
     <td> Chrome-Dinosaur </td>
@@ -712,6 +718,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td>Online Chess game using html CSS and JS </td>
     <td>  <a href="https://github.com/naemazam/Online-Chess#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Online-Chess/" target="blank"> play </a> </td>
+    </tr>
+  <tr>
+    <td> Basketball</td>
+     <td>Online Basketball game using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/Basketball-Game#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Basketball-Game/" target="blank"> play </a> </td>
+    </tr>
+  <tr>
+    <td> Stick Hero</td>
+     <td>Online Stick Hero game using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/Stick-Hero#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Stick-Hero/" target="blank"> play </a> </td>
     </tr>
   
   
