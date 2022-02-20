@@ -697,9 +697,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Earthquakes-worldwide#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
-    <td> Periodic table</td>
-     <td>Let's Gather Periodic table Information By python</td>
-    <td>  <a href="https://github.com/naemazam/Periodic-table#readme" target="blank"> ReadMe </a> </td>
+    <td> Minimal Block</td>
+     <td>Blockchain is essentially a chain of blocks, and the connection is made by storing the hash of the previous block. Therefore, a chain can be implemented using a Python.</td>
+    <td>  <a href="https://github.com/naemazam/Minimal-Blockchain#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
   
@@ -786,8 +786,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/C-Syntax-Tracker#readme" target="blank"> ReadMe </a> </td>
       <td> C++ </td>
     </tr>
-  
-  
+  <tr>
+  <td> Periodic table</td>
+     <td>Let's Gather Periodic table Information By python</td>
+    <td>  <a href="https://github.com/naemazam/Periodic-table#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> python</a> </td>
+  </tr>
   </table>
   
   
