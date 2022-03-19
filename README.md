@@ -508,6 +508,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Note-Keeper#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Note-Keeper/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td> Simple-Loan-Calculator</td>
+     <td>Loan Calculator allows the users to calculate their loan monthly payment amount, total payable amount, and total interest. </td>
+    <td>  <a href="https://github.com/naemazam/Simple-Loan-Calculator#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Simple-Loan-Calculator/" target="blank"> WebView </a> </td>
+    </tr>
   
   <tr>
     <td> Login Signup Form with Email Verification </td>
