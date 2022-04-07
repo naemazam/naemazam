@@ -7,12 +7,18 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=11F71D&center=true&vCenter=true&lines=I'm+A+Passionate+Dev;Creator;Designer;Analyzer;Photographer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
     </p>
  
  <!-- social -->
  <p align="center">
   <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,7 +26,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee-64.png"/></a>
+  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -38,7 +44,7 @@
 </p>
 
   ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
@@ -57,7 +63,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
 
-- 💬 Ask me about **Linux, CMD, PowerShell**
+- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
 
 - 📄 Know about my experiences [Experiences](https://naemazam.github.io/#resume)
 
