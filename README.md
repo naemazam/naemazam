@@ -633,6 +633,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Hotel-Management-System#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
+  <tr>
+    <td> Canteen Management System</td>
+     <td>The owner can add the employee and update the employee details. Similarly, the employee manages the sales and order.in c language</td>
+    <td>  <a href="https://github.com/naemazam/Simple-Canteen-Management-System#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="youtu.be/g8xe20n8gbw" target="blank"> video</a> </td>
+    </tr>
   
   
   
