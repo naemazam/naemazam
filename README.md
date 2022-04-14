@@ -424,6 +424,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <td>  <a href="https://github.com/naemazam/Live-Code-Editor/#readme" target="blank"> ReadMe </a> </td>
      <td> <a href="https://naemazam.github.io/Live-Code-Editor/" target="blank"> WebView </a> </td>
     </tr>
+  <tr>
+    <td> Minimal student portfolio </td>
+     <td> A simple gift for my student </td>
+    <td>  <a href="https://github.com/naemazam/Minimal-student-portfolio#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Minimal-student-portfolio/" target="blank"> WebView </a> </td>
+    </tr>
    <tr>
     <td> Live Browser </td>
      <td> Fully working webbrowser clone using html CSS and JS </td>
