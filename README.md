@@ -540,7 +540,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
       <td>  <a href="https://naemazam.github.io/Online-Timer-and-Alarm-Clock/" target="blank"> DEMO </a> </td>
     </tr>
   <tr>
-    <td> UI me</td>
+    <td> UIme</td>
      <td>Fully Responsive UX/UI Portfolio Website Template </td>
     <td>  <a href="https://github.com/naemazam/UIme---UX-UI-portfolio#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/UIme---UX-UI-portfolio/" target="blank"> DEMO </a> </td>
@@ -644,6 +644,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
      <td>The owner can add the employee and update the employee details. Similarly, the employee manages the sales and order.in c language</td>
     <td>  <a href="https://github.com/naemazam/Simple-Canteen-Management-System#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="youtu.be/g8xe20n8gbw" target="blank"> video</a> </td>
+    </tr>
+  <tr>
+    <td> Library Management System</td>
+     <td>Library Management System is specially designed for purpose of adding book’s records in a library. written By C language</td>
+    <td>  <a href="https://github.com/naemazam/Library-Management-System#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://youtu.be/am89efdh99Y" target="blank"> video</a> </td>
     </tr>
   
   
