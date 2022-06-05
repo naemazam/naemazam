@@ -385,11 +385,62 @@ I am also a freelancer and working online for more than 3 years. I have complete
   
 <br/> 
 <p align="center">
-  <a href="https://naemazam.github.io/My-Projects/"><img alt="All Projects" title="All Projects" src="https://custom-icon-badges.herokuapp.com/badge/-small%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://naemazam.github.io/My-Projects/"><img alt="All Projects" title="All Projects" src="https://custom-icon-badges.herokuapp.com/badge/-My%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
   
 
-<h2> Web-Based Project </h2>
+<h2> Static Website Project </h2>
+  <table> 
+    <tr>
+    <th> Project name </th>
+     <th> Abstract </th>
+     <th> GitHub Links </th>
+     <th> Documentation Webpage </th>
+    </tr>
+    <tr>
+    <td> Minimal student portfolio </td>
+     <td> A simple gift for my student </td>
+    <td>  <a href="https://github.com/naemazam/Minimal-student-portfolio#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Minimal-student-portfolio/" target="blank"> WebView </a> </td>
+    </tr>
+    <tr>
+    <td> Font-End Dev Portfolio </td>
+     <td> This portfolio Designer For Font-end Dev. A Simple gift for my Fellows </td>
+    <td>  <a href="https://github.com/naemazam/Front-end-dev-portfolio#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Front-end-dev-portfolio/" target="blank"> WebView </a> </td>
+    </tr>
+     <tr>
+    <td> Google search clone </td>
+     <td> Fully working fake Google search engine clone using html CSS and JS </td>
+    <td>  <a href="https://github.com/naemazam/Google-search-clone#readme" target="blank"> ReadMe </a> </td>
+     <td> <a href="https://naemazam.github.io/Google-search-clone/" target="blank"> WebView </a> </td>
+    </tr>
+    <tr>
+    <td>My projects </td>
+     <td>Let's See. In here I am Combining All of my projects and Works. </td>
+    <td>  <a href="https://github.com/naemazam/My-Projects#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/My-Projects/" target="blank"> WebView </a> </td>
+    </tr>
+  <tr>
+    <td> About Me </td>
+     <td>It's a Simple Card For Add About me any Of My projects.</td>
+    <td>  <a href="https://github.com/naemazam/About-Me#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/About-Me/" target="blank"> WebView </a> </td>
+    </tr>
+    <tr>
+    <td> UIme</td>
+     <td>Fully Responsive UX/UI Portfolio Website Template </td>
+    <td>  <a href="https://github.com/naemazam/UIme---UX-UI-portfolio#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/UIme---UX-UI-portfolio/" target="blank"> DEMO </a> </td>
+    </tr>
+  
+  
+  
+  
+  
+  </table>
+  
+  <h2> Web Application </h2>
   <table> 
     <tr>
     <th> Project name </th>
@@ -402,12 +453,6 @@ I am also a freelancer and working online for more than 3 years. I have complete
      <td> Everyone is saying make a OS by using Html CSS and js is not possible that's why I named it Impossible OS. But I Know You will Like IT. </td>
       <td>  <a href="https://github.com/naemazam/Impossible-OS#readme" target="blank"> ReadMe </a> </td>
           <td>  <a href="https://naemazam.github.io/Impossible-OS/" target="blank"> Visit </a> </td>
-    </tr>
-  <tr>
-    <td> Hello World </td>
-     <td> I don't Know What is Your First Language and Don't Want to know Why You Select it. But As a Programmer i know, The Smile When You run Your First Code. After That We made Thousands of Mistake In our DEV life. We did Debug, Copycat or Googling But never Forget This First 2 Words. Let's Combine Our First Happiness In A single Page. </td>
-      <td>  <a href="https://github.com/naemazam/Hello-World#readme" target="blank"> ReadMe </a> </td>
-          <td>  <a href="" target="blank"> - </a> </td>
     </tr>
   <tr>
     <td> The Calculator </td>
@@ -427,29 +472,11 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Live-Code-Editor/#readme" target="blank"> ReadMe </a> </td>
      <td> <a href="https://naemazam.github.io/Live-Code-Editor/" target="blank"> WebView </a> </td>
     </tr>
-  <tr>
-    <td> Minimal student portfolio </td>
-     <td> A simple gift for my student </td>
-    <td>  <a href="https://github.com/naemazam/Minimal-student-portfolio#readme" target="blank"> ReadMe </a> </td>
-     <td> <a href="https://naemazam.github.io/Minimal-student-portfolio/" target="blank"> WebView </a> </td>
-    </tr>
    <tr>
     <td> Live Browser </td>
      <td> Fully working webbrowser clone using html CSS and JS </td>
     <td>  <a href="https://github.com/naemazam/Live-Browser#readme" target="blank"> ReadMe </a> </td>
      <td> <a href="https://naemazam.github.io/Live-Browser/" target="blank"> WebView </a> </td>
-    </tr>
-  <tr>
-    <td> Font-End Dev Portfolio </td>
-     <td> This portfolio Designer For Font-end Dev. A Simple gift for my Fellows </td>
-    <td>  <a href="https://github.com/naemazam/Front-end-dev-portfolio#readme" target="blank"> ReadMe </a> </td>
-     <td> <a href="https://naemazam.github.io/Front-end-dev-portfolio/" target="blank"> WebView </a> </td>
-    </tr>
-  <tr>
-    <td> Google search clone </td>
-     <td> Fully working fake Google search engine clone using html CSS and JS </td>
-    <td>  <a href="https://github.com/naemazam/Google-search-clone#readme" target="blank"> ReadMe </a> </td>
-     <td> <a href="https://naemazam.github.io/Google-search-clone/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
     <td> Random Quran Ayat </td>
@@ -470,12 +497,6 @@ I am also a freelancer and working online for more than 3 years. I have complete
       <td>  <a href="https://naemazam.github.io/text-to-speak/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
-    <td>Online Ludo </td>
-     <td>4 Play online ludo game on JS based </td>
-    <td>  <a href="https://github.com/naemazam/Online-Ludo#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/Online-Ludo/" target="blank"> WebView </a> </td>
-    </tr>
-  <tr>
     <td>Type Beast </td>
      <td>A simple typing speed test Website based on html and js </td>
     <td>  <a href="https://github.com/naemazam/TypeBeast#readme" target="blank"> ReadMe </a> </td>
@@ -486,18 +507,6 @@ I am also a freelancer and working online for more than 3 years. I have complete
      <td>A simple Log In based To Do App </td>
     <td>  <a href="https://github.com/naemazam/To-Do-List#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/To-Do-List/" target="blank"> WebView </a> </td>
-    </tr>
-  <tr>
-    <td>My projects </td>
-     <td>Let's See. In here I am Combining All of my projects and Works. </td>
-    <td>  <a href="https://github.com/naemazam/My-Projects#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/My-Projects/" target="blank"> WebView </a> </td>
-    </tr>
-  <tr>
-    <td> About Me </td>
-     <td>It's a Simple Card For Add About me any Of My projects.</td>
-    <td>  <a href="https://github.com/naemazam/About-Me#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/About-Me/" target="blank"> WebView </a> </td>
     </tr>
   <tr>
     <td> Birthday Calender</td>
@@ -529,7 +538,6 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Simple-Loan-Calculator#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Simple-Loan-Calculator/" target="blank"> WebView </a> </td>
     </tr>
-  
   <tr>
     <td> Login Signup Form with Email Verification </td>
      <td>Login Signup Form with Email Verification is a Working PHP based Sine Up from with Working OTP generating System, It's Working On Local Host. And I told You How to Configure Server. </td>
@@ -542,17 +550,6 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Online-Timer-and-Alarm-Clock#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Online-Timer-and-Alarm-Clock/" target="blank"> DEMO </a> </td>
     </tr>
-  <tr>
-    <td> UIme</td>
-     <td>Fully Responsive UX/UI Portfolio Website Template </td>
-    <td>  <a href="https://github.com/naemazam/UIme---UX-UI-portfolio#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/UIme---UX-UI-portfolio/" target="blank"> DEMO </a> </td>
-    </tr>
-  
-  
-  
-  
-  
   </table>
   
   <h2> Software-based Project </h2>
