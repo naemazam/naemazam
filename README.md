@@ -566,6 +566,12 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Login-Signup-Form-with-Email-Verification#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://dev.to/naemazam/how-to-configure-xampp-to-send-mail-from-localhost-in-php--382c" target="blank"> Read Blog </a> </td>
     </tr>
+  <tr>
+    <td> Contact Form mail server</td>
+     <td>This is a Simple Website's Contact Form Page developed in PHP and SQLite Database</td>
+    <td>  <a href="https://github.com/naemazam/Contact-Form-mail-server#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
   
   
   </table>
@@ -675,12 +681,7 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Youtube-video-Downloader#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
-  <tr>
-    <td> Contact Form mail server</td>
-     <td>This is a Simple Website's Contact Form Page developed in PHP and SQLite Database</td>
-    <td>  <a href="https://github.com/naemazam/Contact-Form-mail-server#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="" target="blank"> -</a> </td>
-    </tr>
+  
   
   
   
