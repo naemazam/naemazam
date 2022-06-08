@@ -434,10 +434,22 @@ I am also a freelancer and working online for more than 3 years. I have complete
       <td>  <a href="https://naemazam.github.io/About-Me/" target="blank"> WebView </a> </td>
     </tr>
     <tr>
-    <td> UIme</td>
+    <td> Ux/UI portfolio</td>
      <td>Fully Responsive UX/UI Portfolio Website Template </td>
-    <td>  <a href="https://github.com/naemazam/UIme---UX-UI-portfolio#readme" target="blank"> ReadMe </a> </td>
-      <td>  <a href="https://naemazam.github.io/UIme---UX-UI-portfolio/" target="blank"> DEMO </a> </td>
+    <td>  <a href="https://github.com/naemazam/UXUI-portfolio#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/UXUI-portfolio/" target="blank"> DEMO </a> </td>
+    </tr>
+  <tr>
+    <td> Animate-AutoTyping-Terminal-Portfolio</td>
+     <td>Responsive Animated Autotyping terminal Portfolio Using HTML CSS And JavaScript </td>
+    <td>  <a href="https://github.com/naemazam/Animate-AutoTyping-Terminal-Portfolio#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Animate-AutoTyping-Terminal-Portfolio/" target="blank"> DEMO </a> </td>
+    </tr>
+  <tr>
+    <td> HTML CV</td>
+     <td>Open-Source CV Website Collection by CV Baba </td>
+    <td>  <a href="https://github.com/naemazam/Html-CV#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://github.com/naemazam/Html-CV" target="blank"> -</a> </td>
     </tr>
   
   
@@ -550,6 +562,27 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Online-Timer-and-Alarm-Clock#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Online-Timer-and-Alarm-Clock/" target="blank"> DEMO </a> </td>
     </tr>
+  <tr>
+    <td> Advance password strength checker</td>
+     <td>Create a password strength checker with javascript to check how strong and secure your password is. </td>
+    <td>  <a href="https://github.com/naemazam/Advance-password-strength-checker#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Advance-password-strength-checker/" target="blank"> DEMO </a> </td>
+    </tr>
+  <tr>
+    <td> PyScript Based Simple To Do App</td>
+     <td>simple PyScript Based Simple To Do App </td>
+    <td>  <a href="https://github.com/naemazam/PyScript-TODO#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/PyScript-TODO/" target="blank"> DEMO </a> </td>
+    </tr>
+  <tr>
+    <td> Registration-App-with-Export-to-CSV</td>
+     <td>simple PyScript Based Simple To Do App </td>
+    <td>  <a href="https://github.com/naemazam/Registration-App-with-Export-to-CSV#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Registration-App-with-Export-to-CSV/" target="blank"> DEMO </a> </td>
+    </tr>
+  
+  
+  
   </table>
   
   <h2>Advance Web Application </h2>
@@ -572,11 +605,17 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Contact-Form-mail-server#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
+   <tr>
+    <td> CQUPT Online Thesis Archiving System</td>
+     <td>This is a web-based application that provides an online platform for storing the students' thesis or capstone projects.developed in PHP and SQL Database</td>
+    <td>  <a href="https://github.com/naemazam/Online-Thesis-Archiving-System#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
   
   
   </table>
   
-  <h2> Terminal Based App </h2>
+  <h2>Console Based application </h2>
   <table> 
     <tr>
     <th> Project name </th>
@@ -614,6 +653,24 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Library-Management-System#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://youtu.be/am89efdh99Y" target="blank"> video</a> </td>
     </tr>
+  <tr>
+    <td> Pizza-Ordering-System</td>
+     <td>The Simple Pizza Ordering System was built in a simple console application. written By C++anguage</td>
+    <td>  <a href="https://github.com/naemazam/Pizza-Ordering-System#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> video</a> </td>
+    </tr>
+  <tr>
+    <td> Fortune-Teller</td>
+     <td>This Project is a console application, designed to determine the horoscope and predict future based on your Date of Birth, name entered written By C++anguage</td>
+    <td>  <a href="https://github.com/naemazam/Fortune-Teller#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://www.youtube.com/watch?v=5wq47XCdrc8&feature=youtu.be" target="blank"> video</a> </td>
+    </tr>
+  <tr>
+    <td> Tic-Tac-Toe-Game-using-C</td>
+     <td>a simple windowed console application, that display the gameplay as a console log images. written By C++anguage</td>
+    <td>  <a href="https://github.com/naemazam/Tic-Tac-Toe-Game-using-C#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://www.youtube.com/watch?v=VnHFShLb4NY&feature=youtu.be" target="blank"> video</a> </td>
+    </tr>
   
   
   
@@ -626,6 +683,12 @@ I am also a freelancer and working online for more than 3 years. I have complete
      <th> Abstract </th>
      <th> GitHub Links </th>
      <th> Documentation Webpage </th>
+    </tr>
+  <tr>
+    <td> Python Module Managment </td>
+     <td>It is a Free GUI App that helps you to Manage Your Python Module Management. Easy to Install and Use. </td>
+      <td>  <a href="https://github.com/naemazam/PMM#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://www.youtube.com/watch?v=gW9cXDNlrsw" target="blank"> DEMO Video </a> </td>
     </tr>
   <tr>
     <td> Link Manager </td>
@@ -679,6 +742,12 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td> Youtube video Downloader</td>
      <td>Python based Youtube video Downloader GUI Application.</td>
     <td>  <a href="https://github.com/naemazam/Youtube-video-Downloader#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
+  <tr>
+    <td> Number Base Converter App</td>
+     <td>Python based Number Base Converter App GUI Application.</td>
+    <td>  <a href="https://github.com/naemazam/Number-Base-Converter-App#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
   
@@ -766,10 +835,17 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Earthquakes-worldwide#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
     </tr>
+  <tr>
     <td> Minimal Block</td>
      <td>Blockchain is essentially a chain of blocks, and the connection is made by storing the hash of the previous block. Therefore, a chain can be implemented using a Python.</td>
     <td>  <a href="https://github.com/naemazam/Minimal-Blockchain#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
+  <tr>
+    <td> Unix-Epochalypse</td>
+     <td>Unix Epochalypse or The Year 2038 problem (also known as Y2038, Y2K38, or the Epochalypse) is a time formatting bug in computer systems with representing times after 03:14:07 UTC on 19 January 2038.</td>
+    <td>  <a href="https://github.com/naemazam/Unix-Epochalypse#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Unix-Epochalypse/" target="blank"> Timer</td>
     </tr>
   
   
@@ -817,7 +893,18 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Online-Ludo#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Online-Ludo/" target="blank"> WebView </a> </td>
     </tr>
-  
+  <tr>
+    <td>tic-tac-toe Simple VS AI </td>
+     <td>tictac-toe with AI </td>
+    <td>  <a href="https://github.com/naemazam/tic-tac-toe-Simple-VS-AI#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/tic-tac-toe-Simple-VS-AI/" target="blank"> Play </a> </td>
+    </tr>
+  <tr>
+    <td>Fruit Ninja Game</td>
+     <td>Fruit Ninja Game made with Js
+    <td>  <a href="https://github.com/naemazam/Fruit-Ninja-Game#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Fruit-Ninja-Game/" target="blank"> Play </a> </td>
+    </tr>
   
   
   
