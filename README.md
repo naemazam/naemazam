@@ -440,7 +440,7 @@ I am also a freelancer and working online for more than 3 years. I have complete
   
   </table>
   
-  <h2> Web Application </h2>
+  <h2>Simple Web Application </h2>
   <table> 
     <tr>
     <th> Project name </th>
@@ -552,7 +552,43 @@ I am also a freelancer and working online for more than 3 years. I have complete
     </tr>
   </table>
   
-  <h2> Software-based Project </h2>
+  <h2>Advance Web Application </h2>
+  <table> 
+    <tr>
+    <th> Project name </th>
+     <th> Abstract </th>
+     <th> GitHub Links </th>
+     <th> Documentation Webpage </th>
+    </tr>
+  <tr>
+    <td> Impossible-OS </td>
+     <td> Everyone is saying make a OS by using Html CSS and js is not possible that's why I named it Impossible OS. But I Know You will Like IT. </td>
+      <td>  <a href="https://github.com/naemazam/Impossible-OS#readme" target="blank"> ReadMe </a> </td>
+          <td>  <a href="https://naemazam.github.io/Impossible-OS/" target="blank"> Visit </a> </td>
+    </tr>
+  
+  </table>
+  
+  <h2> Terminal Based App </h2>
+  <table> 
+    <tr>
+    <th> Project name </th>
+     <th> Abstract </th>
+     <th> GitHub Links </th>
+     <th> Language </th>
+    </tr>
+  <tr>
+    <td>Online Ludo </td>
+     <td>4 Play online ludo game on JS based </td>
+    <td>  <a href="https://github.com/naemazam/Online-Ludo#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://naemazam.github.io/Online-Ludo/" target="blank"> WebView </a> </td>
+    </tr>
+  
+  
+  
+  </table>
+  
+  <h2> Software GUI Project </h2>
   <table> 
     <tr>
     <th> Project name </th>
@@ -656,6 +692,8 @@ I am also a freelancer and working online for more than 3 years. I have complete
   
   
   </table>
+  
+  
   
   <h2> Research-based Project </h2>
   <table> 
@@ -788,6 +826,8 @@ I am also a freelancer and working online for more than 3 years. I have complete
   
   
   </table>
+  
+
   
   <h2> Script </h2>
   <table> 
