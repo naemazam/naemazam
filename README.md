@@ -22,21 +22,20 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
 
 <!-- social -->
  <p align="center">
+   <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
 </p>
 
 <p align="center">
