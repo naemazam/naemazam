@@ -6,9 +6,7 @@
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
-    </p>
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a></p>
  
  <!-- platfrom -->
  <p align="center">
