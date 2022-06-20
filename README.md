@@ -847,6 +847,12 @@ I am also a freelancer and working online for more than 3 years. I have complete
     <td>  <a href="https://github.com/naemazam/Unix-Epochalypse#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://naemazam.github.io/Unix-Epochalypse/" target="blank"> Timer</td>
     </tr>
+  <tr>
+    <td> Real time face recognition Using Facenete</td>
+     <td>Real time face recognition Using Facenet , pytorch, Tensorflow</td>
+    <td>  <a href="https://github.com/naemazam/Real-time-face-recognition-Using-Facenet#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="#" target="blank"> Thesis</td>
+    </tr>
   
   
   
