@@ -33,6 +33,18 @@
  <p align="center">
    <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="#" alt="Douyin"><img width="32px" src="./img/tiktoc.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
