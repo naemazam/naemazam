@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Naem+Azam;I'm+Self-taught+Programmer;I+am+an+open-source+enthusiast;I+am+a+creator;I+am+a+system+analyzer;I+am+a+researcher"></a>
     </p>
  
- <!-- social -->
+ <!-- platfrom -->
  <p align="center">
   <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -31,6 +31,12 @@
   <a href="http://naemazam.github.io/"><img width="32px" alt="My resumeCV" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
+</p>
+
+<!-- social -->
+ <p align="center">
+  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <p align="center">
