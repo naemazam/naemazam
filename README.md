@@ -20,7 +20,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="Medium" title="Medium" src="./img/medium.png"/></a>
+  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
