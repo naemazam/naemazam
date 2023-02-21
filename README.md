@@ -471,6 +471,24 @@ I am also a freelancer and have been working online for more than 3 years. I hav
     <td>  <a href="https://github.com/naemazam/Html-CV#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="https://github.com/naemazam/Html-CV" target="blank"> -</a> </td>
     </tr>
+    <tr>
+    <td> Technical Documentation Page</td>
+     <td>Technical Documentation Page with html css js </td>
+    <td>  <a href="https://github.com/naemazam/Technical-Documentation-Page#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://github.com/naemazam/Technical-Documentation-Page" target="blank"> -</a> </td>
+    </tr>
+    <tr>
+    <td> Doctor-Portfolio</td>
+     <td>Technical Documentation Page with html css js </td>
+    <td>  <a href="https://github.com/naemazam/Doctor-Portfolio#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://github.com/naemazam/Doctor-Portfolio" target="blank"> -</a> </td>
+    </tr>
+    <tr>
+    <td> CyberPunk Portfolio</td>
+     <td>Make a Cyberpunk Personal Portfolio with HTML, CSS and Js </td>
+    <td>  <a href="https://github.com/naemazam/CyberPunk-Portfolio#readme" target="blank"> ReadMe </a> </td>
+      <td>  <a href="https://github.com/naemazam/CyberPunk-Portfolio" target="blank"> -</a> </td>
+    </tr>
   
   
   
@@ -630,6 +648,18 @@ I am also a freelancer and have been working online for more than 3 years. I hav
      <td>This is a web-based application that provides an online platform for storing the students' thesis or capstone projects.developed in PHP and SQL Database</td>
     <td>  <a href="https://github.com/naemazam/Online-Thesis-Archiving-System#readme" target="blank"> ReadMe </a> </td>
       <td>  <a href="" target="blank"> -</a> </td>
+    </tr>
+     <tr>
+    <td> Methuen Online Food Ordering System</td>
+     <td>Online Food Ordering System like Uber eat, Food panda or Methuen made by Php and MySql</td>
+    <td>  <a href="https://github.com/naemazam/Methuen-Online-Food-Ordering-System" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> Demo</a> </td>
+    </tr>
+    <tr>
+    <td> Dynamic Portfolio Website With AdminPanel</td>
+     <td>Online Food Ordering System like Uber eat, Food panda or Methuen made by Php and MySql</td>
+    <td>  <a href="https://github.com/naemazam/dynamic-portfolio-website-with-Admin-Panel-php-mysql" target="blank"> ReadMe </a> </td>
+      <td>  <a href="" target="blank"> Demo</a> </td>
     </tr>
   
   
