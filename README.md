@@ -30,6 +30,7 @@
   <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
 </p>
 
+
 <!-- social -->
  <p align="center">
    <a href="http://naemazam.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
@@ -91,6 +92,26 @@ I am also a freelancer and have been working online for more than 3 years. I hav
 - 👨‍💻 Hire Me as [Freelancer](http://naemazam.com/)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
+
+
+ # Research 
+  
+   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0008-9398-3902"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0008-9398-3902
+    </a>
+    
+ [Science Open ](https://www.scienceopen.com/user/naemazamchowdhury)
+ 
 
 <h2 align="left" id="naemazam">Certificates</h2>
 
