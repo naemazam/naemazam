@@ -70,29 +70,20 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
  <br>
   
-Hi, I'm [Naem Azam](http://naemazam.com/), a passionate self-taught Programmer, an open-source enthusiast, and a maintainer and National level hackathon winner🥇 🇨🇳. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
+🎓 **Naem Azam Chowdhury** is a Gold Medalist 🎖️ in BSc in Computer Science & Technology, currently pursuing his **MS in Cybersecurity & Information Law** under a **Chinese Government Scholarship (CSC)**. With a strong background in **programming**, **ethical hacking**, and **artificial intelligence**, I specialize in developing innovative and secure digital solutions. I’ve proudly represented my skills on global platforms, winning top medals in AI competitions across China — including the prestigious **Lingang Cup 🥇** and the **AI Hackathon Cup in Shanghai**.
 
+---
 
-I’m a research scientist working to better understand About AI and Cybersecurity. My expertise includes Linux System Administration, IT Support Specialist, Web development, and implementation of AI research tools. I enjoy generating new ideas and devising feasible solutions to broadly relevant problems. My Friends would describe me as a driven, resourceful individual who maintains a positive, proactive attitude when faced with adversity. Currently, I’m seeking opportunities that will allow me to develop and promote technologies that benefit Companies. Specific fields of interest include Open-source Development, BlockChain, Networking, Linux OS Development, Digital forensics, System analysis, and Automotion.
+### 🎓 What I Do:
+- Teach **cybersecurity**, **AI**, and **data structures** in **Bangla 🇧🇩** through my YouTube channel [**Naem Azam Chowdhury**](https://www.youtube.com/@NaemAzamChowdhury)
+- Create **free courses** on topics like **DSA** and **ethical hacking**
+- Share **career guidance** for students and professionals in tech
 
+---
 
-I am also a freelancer and have been working online for more than 3 years. I have completed 200+ projects in my freelancing career. The most essential feature of me is that I am a reliable worker dedicating myself fully to my projects. Just handover your tasks to me and take a rest
-
-
-  <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
-  
-  
-  
-- 🔭 I’m currently working on [Research Work](https://naemazam.github.io/Researcher/)
-
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
-
-- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
-
-- 📄 Know about my [Experiences](https://naemazam.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer](http://naemazam.com/)
-
-- ⚡ Fun fact **I Think I love my computer, more then myself.**
+### 🎯 My Mission:
+To **inspire and guide** the next generation of tech leaders — especially from **South Asia** — to build **secure careers** in programming, AI, and digital security.
+ 
 
 
  # Research 
