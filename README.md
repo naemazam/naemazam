@@ -70,7 +70,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
  <br>
   
-🎓 **Naem Azam Chowdhury** is a Gold Medalist 🎖️ in BSc in Computer Science & Technology, currently pursuing his **MS in Cybersecurity & Information Law** under a **Chinese Government Scholarship (CSC)**. With a strong background in **programming**, **ethical hacking**, and **artificial intelligence**, I specialize in developing innovative and secure digital solutions. I’ve proudly represented my skills on global platforms, winning top medals in AI competitions across China — including the prestigious **Lingang Cup 🥇** and the **AI Hackathon Cup in Shanghai**.
+🎓 **Naem Azam Chowdhury** is a Gold Medalist 🎖️ in BSc in Computer Science & Technology, currently pursuing his **MS in Cybersecurity & Information Law** under a **Chinese Government Scholarship (CSC)**. With a strong background in **programming**, **ethical hacking**, and **artificial intelligence**, I specialize in developing innovative and secure digital solutions. I’ve proudly represented my skills on global platforms, winning top medals in AI competitions across China — including the prestigious **Lingang Cup 🥇** and the **AI Hackathon Cup in Shanghai**. As a **Security Researcher** and **AI Privacy Advocate**, I am passionate about educating others on **AI Ethics**, **Data Protection**, and **Cyber Threats**, aiming to create a more secure and responsible digital world.
 
 ---
 
