@@ -38,7 +38,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+  <a href="https://twitter.com/naemazamchow" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -54,10 +54,10 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCTE1zfR8xpBXqgjvOgH0Nfw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCaek0UEhc5G_SRpia6jDRZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCaek0UEhc5G_SRpia6jDRZw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/naemazam">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
@@ -75,10 +75,12 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 ---
 
 ### 🎓 What I Do:
-- Teach **cybersecurity**, **AI**, and **data structures** in **Bangla 🇧🇩** through my YouTube channel [**Naem Azam Chowdhury**](https://www.youtube.com/@NaemAzamChowdhury)
-- Create **free courses** on topics like **DSA** and **ethical hacking**
-- Share **career guidance** for students and professionals in tech
-
+- 🛡️ Teach Cybersecurity, 🤖 AI, and 👨‍💻 Coding & DSA in Bangla 🇧🇩 through my YouTube channel [Naem Azam Chowdhury](https://www.youtube.com/@NaemAzamChowdhury)
+- 🎓 Create free courses on topics like DSA, Ethical Hacking, and Linux Basics through my [YouTube channel ](https://www.youtube.com/@N3tHawk)
+- 🤝 Offer 1:1 [tech career consulting and guidance](https://www.facebook.com/NaemAzamChowdhury) for breaking into the IT & Cybersecurity industry
+- 🧭 Share career guidance, 🎯 productivity tips, and 💬 mentorship for students & professionals in tech
+- 📢 Advocate for AI Ethics, Digital Privacy, and Cyber Awareness through [public speaking and consultations](https://x.com/naemazamchow)
+- 🌐 Run multiple channels to deliver tech content in both Bangla and English
 ---
 
 ### 🎯 My Mission:
