@@ -60,7 +60,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCaek0UEhc5G_SRpia6jDRZw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/naemazam">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
+  <a href='https://ko-fi.com/V7V01HA8FQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
   ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
@@ -69,6 +69,8 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
  <br>
+
+ 
   
 🎓 **Naem Azam Chowdhury** is a Gold Medalist 🎖️ in BSc in Computer Science & Technology, currently pursuing his **MS in Cybersecurity & Information Law** under a **Chinese Government Scholarship (CSC)**. With a strong background in **programming**, **ethical hacking**, and **artificial intelligence**, I specialize in developing innovative and secure digital solutions. I’ve proudly represented my skills on global platforms, winning top medals in AI competitions across China — including the prestigious **Lingang Cup 🥇** and the **AI Hackathon Cup in Shanghai**. As a **Security Researcher** and **AI Privacy Advocate**, I am passionate about educating others on **AI Ethics**, **Data Protection**, and **Cyber Threats**, aiming to create a more secure and responsible digital world.
 
