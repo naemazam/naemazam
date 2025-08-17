@@ -78,7 +78,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 ### 🎓 What I Do:
 - 🛡️ Teach Cybersecurity, 🤖 AI, and 👨‍💻 Coding & DSA in Bangla 🇧🇩 through my YouTube channel [Naem Azam Chowdhury](https://www.youtube.com/@NaemAzamChowdhury)
-- 🎓 Create free courses on topics like DSA, Ethical Hacking, and Linux Basics through my [YouTube channel ](https://www.youtube.com/@N3tHawk)
+- 🎓 Create free courses on topics like Ethical Hacking, and Linux Basics through my [YouTube channel ](https://www.youtube.com/@N3tHawk)
 - 🤝 Offer 1:1 [tech career consulting and guidance](https://www.facebook.com/NaemAzamChowdhury) for breaking into the IT & Cybersecurity industry
 - 🧭 Share career guidance, 🎯 productivity tips, and 💬 mentorship for students & professionals in tech
 - 📢 Advocate for AI Ethics, Digital Privacy, and Cyber Awareness through [public speaking and consultations](https://x.com/naemazamchow)
