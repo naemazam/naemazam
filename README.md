@@ -1036,6 +1036,14 @@ To **inspire and guide** the next generation of tech leaders — especially from
       <td>  <a href="" target="blank"> python</a> </td>
   </tr>
   </table>
+
+
+  <!-- Competitive Programming Profiles --> 
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+
+<!-- https://leetcard.jacoblin.cool/ --> 
+![LeetCode Stats](https://leetcard.jacoblin.cool/naemazam?theme=nord&font=Salsa&ext=activity) 
   
   
   <p align="center">
