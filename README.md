@@ -12,7 +12,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
  
  <!-- platfrom -->
  <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
+  <a href="https://www.youtube.com/@NaemAzamChowdhury"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
