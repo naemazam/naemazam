@@ -4,6 +4,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
+
+
+
+
+
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
@@ -51,24 +57,25 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-</p>
+<p align="left">
+  <!-- YouTube Views -->
+  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw" target="_blank">
+    <img alt="YouTube Views" title="YouTube Views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCaek0UEhc5G_SRpia6jDRZw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCaek0UEhc5G_SRpia6jDRZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCaek0UEhc5G_SRpia6jDRZw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-  <a href="https://github.com/naemazam">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href='https://ko-fi.com/V7V01HA8FQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <!-- YouTube Subscribers -->
+  <a href="https://www.youtube.com/channel/UCaek0UEhc5G_SRpia6jDRZw" target="_blank">
+    <img alt="YouTube Subscribers" title="YouTube Subscribers" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCaek0UEhc5G_SRpia6jDRZw?color=%23E1AD0E&logo=youtube&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/naemazam" target="_blank">
+    <img alt="GitHub Followers" title="GitHub Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/naemazam?color=%23E1AD0E&logo=github&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a>
 </p>
 
   ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
- <br>
 
  
   
